@@ -1,0 +1,4 @@
+Trial,Square Size (m),Total Path Length (m),Closing Error (m),Final X (m),Final Y (m),Final Heading (deg),Status
+T1,1.0,4.0,0.1172,-0.1051,0.052,-3.06,FAIL
+T2,1.0,4.0,0.0784,-0.0784,-0.0024,-4.02,PASS
+T3,1.0,4.0,0.0743,-0.0685,0.0289,2.87,PASS
