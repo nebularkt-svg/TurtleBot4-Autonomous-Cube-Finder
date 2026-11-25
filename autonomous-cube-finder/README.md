@@ -33,3 +33,5 @@ The demonstration log records a separate return-to-start error of **0.117 m** at
 - [SLAM map metadata](evidence/demo_map.yaml) and [occupancy grid](evidence/demo_map.pgm)
 
 Source: Report 2 and the corresponding project brief, demonstration script, and run records.
+
+See the [ROS 2 source and version notes](../ros2/README.md) for the archived scripts and their configuration differences.
